@@ -1,24 +1,23 @@
-div{
+div {
   border: 1px solid;
   border-radius: 0.25rem;
   width: 120px;
 }
 
-#clearButton{
+#clearButton {
   position: absolute;
   height: 21px;
   border-top: 0px;
   border-radius: 0.1rem;
 }
 
-#digitsInput{
+#digitsInput {
   border-radius: 0.25rem;
   text-align: right;
   width: 111.5px;
-
 }
 
-table{
+table {
   display: inline;
   text-align: center;
   /* border-radius: 0.08rem;
@@ -28,15 +27,16 @@ table{
 /* #non-operationsButtons{
   text-align: center;
 }
-
-
 #operationsButtons{
   text-align: center;
 }
  */
 
-.buttons{
+.buttons {
   width: 22px;
   text-align: center;
-  
+}
+
+#operator-buttons-wrapper {
+  display: inline;
 }
